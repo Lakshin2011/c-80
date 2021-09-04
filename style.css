@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background:linear-gradient(gold 0%,orange 100%);
+    color: darkmagenta;
+}
+#sort{
+    display: none;
+}
